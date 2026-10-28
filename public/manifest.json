@@ -1,0 +1,17 @@
+{
+  "name": "মাদরাসা ম্যানেজমেন্ট সিস্টেম (MMS)",
+  "short_name": "মাদরাসা হিসাব",
+  "description": "মাদরাসা শিক্ষা ও আর্থিক অটোমেশন প্ল্যাটফর্ম",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F9FA",
+  "theme_color": "#006E96",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
